@@ -1,0 +1,2 @@
+# BubbleTea-Class
+The BubbleTea class models the real life object of a cup of bubble tea. It's inspired by a customers ability to make adjustments to their  drink at a boba shop. The user can input variables to customize the size, tea type, sweetness level, ice level, and topping of the bubble tea.  The contents in the drink can be fully customizeable through the five input variables. The user is given the creative liberty to create their very own cup of bubble tea. 
